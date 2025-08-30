@@ -1,0 +1,1 @@
+nim c -d:release -d:ssl --out:build/program Program.nim
